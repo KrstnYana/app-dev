@@ -2,12 +2,12 @@
 My first repository
 
 # Stranger Things
-***Overview***
+***Overview:***
   This series is set in the fictional small town of **Hawkins, Indiana,** during the 1980s. The story revolves around a group of friends who 
   uncover secret government experiments, a parallel dimension called the **Upside Down**, and terrifying creatures while searching for one of
   their friends, **Will Byers,** who mysteriously disappeared.
 
-***Genre***
+***Genre:***
   A science fiction-horror television series that blends 1980s vibes with supernatural elements, mystery, and emotional storytelling.
   
 ***Key Characters***
